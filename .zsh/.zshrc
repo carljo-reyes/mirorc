@@ -1,4 +1,5 @@
 export mirorc='/home/romyowski/mirorc'
+export gitconfig='/home/romyowski/.gitconfig'
 
 alias vvim="vim"
 alias vim="nvim"
